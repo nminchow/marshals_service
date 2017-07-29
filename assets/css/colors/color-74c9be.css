@@ -6,66 +6,66 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
- 
+
 /* COLOR CONF */
 
 
 /* Links */
 a {
-    color: #74c9be;
+    color: #CE5300;
 }
 
 .si i {
-	color: #74c9be;
+	color: #CE5300;
 }
 
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 color: #ffffff;
-background-color: #74c9be;
+background-color: #CE5300;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-color: #74c9be;
+color: #CE5300;
 }
 
 .btn-theme {
-  background-color: #74c9be;
+  background-color: #CE5300;
 }
 
 .tabbable .nav-stacked > li:active, li:focus, li.active h4 {
-	color: #74c9be;
+	color: #CE5300;
 }
 
 #cta-bar:hover {
-	background: #74c9be;	
+	background: #CE5300;
 }
 
 p.capitalize:first-letter {
-	background: #74c9be; 
+	background: #CE5300;
 }
 
 .team-info {
-  background: #74c9be;
+  background: #CE5300;
 }
 
 #black i {
-	color: #74c9be;
+	color: #CE5300;
 }
 
 .progress-bar-theme {
-  background-color: #74c9be;
+  background-color: #CE5300;
 }
 
 .team-stat i {
-	color: #74c9be;
+	color: #CE5300;
 }
 
 .pricing-table-plan {
-	border-top: 4px solid #74c9be;
+	border-top: 4px solid #CE5300;
 }
 
 .blog-post blockquote {
-  border-left: 4px solid #74c9be;
+  border-left: 4px solid #CE5300;
 }
 
